@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Gabrilly Maldonado, I'm from Brasil! :brazil:
+My name is Gabrilly Maldonado, I'm from Brasil!
 
 
 <!--
