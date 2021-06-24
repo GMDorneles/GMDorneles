@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Gabrilly Maldonado, I'm from Brasil!
 ### I'm a Software Engineering student.
-I'm currently looking for opportunities that give me the chance to evolve my developer skills. The specific fields that are most interest to me include **CSS, PHP, JS (especifically Node JS, React, React Native).**
+I'm currently looking for opportunities that give me the chance to evolve my developer skills. The specific fields that are most interesting to me include **CSS, PHP, JS (especifically Node JS, React, React Native).**
 
 
 <!--
