@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is Gabrielly Maldonado, I'm from Brasil!
-### I'm a Software Engineering.
+### I'm a Software Engineer.
 I'm currently looking for opportunities that give me the chance to evolve my developer skills. The specific fields that are most interesting to me include **CSS, PHP, JS (especifically Node JS, React, React Native).**
 
 
